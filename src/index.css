@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+ul{
+	padding: 0;
+}
+li{
+  list-style-type: none;
+  
+}
+li h2{
+  margin: 10px 0 5px;
+}
+.players li {
+	background: #ccc;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+.sportstype{
+	font-size: 12px;
+	background: #009688;
+	color: #FFF;
+	padding: 3px;
+}
+.msgInfo{
+	margin-top: 25px;
+}
